@@ -37,8 +37,8 @@ app.controller('MainController', ['$scope', '$window', function($scope, $window)
   };
   $scope.portfolios = [{
     'src': 'https://chuah48263.github.io/assets/img/3MqnsHC.jpg',
-    'href': 'https://pollnomena.herokuapp.com',
-    'desc': 'Pollnomena'
+    'href': 'http://geomapping-1.herokuapp.com/',
+    'desc': 'Geomapping'
   }, {
     'src': 'https://chuah48263.github.io/assets/img/WGx1XQv.jpg',
     'href': 'http://fcc-zipline-build-a-simon-game.bitballoon.com',
@@ -71,10 +71,6 @@ app.controller('MainController', ['$scope', '$window', function($scope, $window)
     'src': 'https://chuah48263.github.io/assets/img/5Y6tsoV.jpg',
     'href': 'http://fcc-zipline-build-a-random-quote-machine.bitballoon.com',
     'desc': 'Random Quotes Machine'
-  // }, {
-  //   'src': 'https://chuah48263.github.io/assets/img/THUP9qh.jpg',
-  //   'href': 'http://fcc-zipline-wikipedia-viewer.bitballoon.com',
-  //   'desc': 'Wikipedia Viewer'
   }];
   var href = {
     'twitter': 'https://twitter.com/chuah48263',
