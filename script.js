@@ -36,17 +36,17 @@ app.controller('MainController', ['$scope', '$window', function($scope, $window)
     'licensePost': ' License'
   };
   $scope.portfolios = [{
-    'src': 'https://chuah48263.github.io/assets/img/3MqnsHC.jpg',
+    'src': 'https://github.com/ignacioserrano9/nachoserrano/blob/master/assets/img/Screenshot%20from%202020-12-02%2012-34-46.png?raw=true',
     'href': 'http://geomapping-1.herokuapp.com/',
     'desc': 'Geomapping'
   }, {
-    'src': 'https://chuah48263.github.io/assets/img/WGx1XQv.jpg',
-    'href': 'http://fcc-zipline-build-a-simon-game.bitballoon.com',
-    'desc': 'Simon Game'
+    'src': 'https://media-exp1.licdn.com/dms/image/C4E12AQH4fWqg4di8Kg/article-cover_image-shrink_720_1280/0/1594489407617?e=1612396800&v=beta&t=EQpfrbwHqWuitqqfB3mWznNiVAJ-woVYuE4ryBYxlQI',
+    'href': 'https://rhtyhm-grooves.herokuapp.com/',
+    'desc': 'Rhythm & Grooves'
   }, {
-    'src': 'https://chuah48263.github.io/assets/img/60bojJN.jpg',
-    'href': 'http://fcc-zipline-stylize-stories-on-camper-news.bitballoon.com',
-    'desc': 'FCC Camper News'
+    'src': 'https://github.com/ignacioserrano9/nachoserrano/blob/master/assets/img/0.jpeg?raw=true',
+    'href': 'https://ignacioserrano9.github.io/lovelyPanda/',
+    'desc': 'Lovely Panda'
   }, {
     'src': 'https://chuah48263.github.io/assets/img/0j4Flsf.jpg',
     'href': 'http://fcc-zipline-show-the-local-weather.bitballoon.com',
@@ -59,26 +59,13 @@ app.controller('MainController', ['$scope', '$window', function($scope, $window)
     'src': 'https://chuah48263.github.io/assets/img/hZJr81o.jpg',
     'href': 'http://fcc-zipline-build-a-pomodoro-clock.bitballoon.com',
     'desc': 'Pomodoro Clock'
-  }, {
-    'src': 'https://chuah48263.github.io/assets/img/C5sB0lT.jpg',
-    'href': 'http://fcc-zipline-build-a-javascript-calculator.bitballoon.com',
-    'desc': 'JavaScript Calculator'
-  }, {
-    'src': 'https://chuah48263.github.io/assets/img/CvLDLKi.jpg',
-    'href': 'http://fcc-zipline-use-the-twitch-tv-json-api.bitballoon.com',
-    'desc': 'Twitch.tv'
-  }, {
-    'src': 'https://chuah48263.github.io/assets/img/5Y6tsoV.jpg',
-    'href': 'http://fcc-zipline-build-a-random-quote-machine.bitballoon.com',
-    'desc': 'Random Quotes Machine'
   }];
   var href = {
-    'twitter': 'https://twitter.com/chuah48263',
-    'github': 'https://github.com/chuah48263',
-    'linkedin': 'https://www.linkedin.com/in/chuah48263',
-    'facebook': 'https://www.facebook.com/chuah48263',
-    'google+': 'https://plus.google.com/113420689322929422099',
-    'freecodecamp': 'https://www.freecodecamp.com/chuah48263',
+    'twitter': 'https://twitter.com/ignserr',
+    'github': 'https://github.com/ignacioserrano9',
+    'linkedin': 'https://www.linkedin.com/in/ignacio-serrano-fdz/',
+    'facebook': 'https://www.facebook.com/ignacio.serranofernandezcanadas',
+    'freecodecamp': 'https://www.freecodecamp.org/nachoserrano',
     'mit': 'https://opensource.org/licenses/MIT'
   };
   $scope.href = function(src) {
