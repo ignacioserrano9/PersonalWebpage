@@ -1,4 +1,4 @@
 # Nacho Serrnao
 
 A Personal Portfolio Webpage
-http://Nachoserrano.github.io
+http://nachoserrano.github.io
